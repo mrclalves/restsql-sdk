@@ -3,6 +3,7 @@
 	<name>restsql-sdk</name>
 	<comment></comment>
 	<projects>
+		<project>restsql-lib</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
